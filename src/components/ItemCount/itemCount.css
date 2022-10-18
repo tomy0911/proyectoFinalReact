@@ -1,0 +1,35 @@
+.counter{
+    color: snow;
+    width: 250px;
+    background-color:darkblue;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 10px;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+
+span{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.sumar{
+    width: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.restar{
+    width: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.agregar{
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}

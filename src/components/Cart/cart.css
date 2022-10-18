@@ -1,0 +1,13 @@
+.confirmar{
+    background-color: lime;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.confirmar:hover{
+    background-color: green;
+    color: black;
+}
